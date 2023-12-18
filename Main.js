@@ -6,8 +6,6 @@ function addTwo(number) {
    return number + 2
   }
   
-  
-  // adds the two inputted numbers together
   // ex: add(5, 10); -> 15
   function add(num1, num2) {
     // CODE HERE
