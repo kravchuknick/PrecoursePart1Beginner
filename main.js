@@ -11,7 +11,7 @@ function addTwo(number) {
     // CODE HERE
       return num1+num2
   }
-  
+ // Update
   
   // adds all three inputted numbers together
   // ex: addd(1,2,3); -> 6
